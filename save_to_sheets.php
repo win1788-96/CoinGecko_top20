@@ -1,5 +1,5 @@
 <?php
-$gasUrl = "https://script.google.com/macros/s/AKfycbxPlDyNCdQp-1Ur6rpuSMhht-prSYtOg4rtGmITAgW3aKXNnLAKpGgMIqjzEams6Pytpg/exec"; // 務必確認是「新部署」後的網址
+$gasUrl = "https://script.google.com/macros/s/AKfycbxPlDyNCdQp-1Ur6rpuSMhht-prSYtOg4rtGmITAgW3aKXNnLAKpGgMIqj****"; // 務必確認是「新部署」後的網址
 $coinGeckoUrl = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1";
 
 // 1. 抓取資料
